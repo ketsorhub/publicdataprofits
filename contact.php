@@ -12,7 +12,7 @@ include __DIR__ . '/includes/header.php';
   </p>
 
   <p>
-    <strong>Email:</strong> hello@publicdataprofits.com
+    <strong>Email:</strong> hansrostek@gmail.com
   </p>
 
   <p>
