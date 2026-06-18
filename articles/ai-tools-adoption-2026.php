@@ -10,6 +10,10 @@ include __DIR__ . '/../includes/header.php';
   AI Tools Adoption 2026
 </nav>
 
+<figure class="article-featured-image">
+  <img src="/assets/images/ai-tools-adoption-2026-featured.png" alt="Branded Public Data Profits featured image for an article about AI tools adoption in 2026.">
+</figure>
+
 <article class="page">
   <p class="article-kicker">AI &amp; Public Data</p>
 
