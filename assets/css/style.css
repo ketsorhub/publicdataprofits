@@ -106,6 +106,7 @@ body {
   padding: 28px 0;
   background: #0d1310;
   color: #ffffff;
+  text-align: center;
 }
 
 .site-footer a {
@@ -113,7 +114,9 @@ body {
 }
 
 .footer-copy {
-  font-size: 0.9rem;
+  max-width: 720px;
+  margin: 18px auto 0;
+  font-size: 0.82rem;
   line-height: 1.5;
-  opacity: 0.85;
+  opacity: 0.8;
 }
