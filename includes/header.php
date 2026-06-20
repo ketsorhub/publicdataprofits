@@ -17,6 +17,7 @@ $page_description = $page_description ?? 'Turn public data into visual content, 
       <a class="brand" href="/">Public Data Profits</a>
       <nav class="site-nav" aria-label="Main navigation">
         <a href="/">Home</a>
+        <a href="/blog.php">Blog</a>
         <a href="/about.php">About</a>
         <a href="/contact.php">Contact</a>
         <a href="/disclosure.php">Disclosure</a>
