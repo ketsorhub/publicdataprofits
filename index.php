@@ -114,4 +114,28 @@ include __DIR__ . '/includes/header.php';
   </p>
 </section>
 
+<section class="content-block latest-blog">
+  <h2>Latest from the Blog</h2>
+
+  <p>
+    Read practical guides about public data, AI tools, SEO, automation, and simple online income systems.
+  </p>
+
+  <article class="article-card">
+    <p class="eyebrow">AI &amp; Public Data</p>
+
+    <h3>
+      <a href="/articles/ai-tools-adoption-2026.php">
+        AI Tools Adoption 2026: What Public Data Shows About How People Use AI
+      </a>
+    </h3>
+
+    <p>
+      A simple guide showing how AI tools are being used in work, content creation, marketing, research, and business planning.
+    </p>
+
+    <a class="cta" href="/blog.php">Visit the Blog</a>
+  </article>
+</section>
+
 <?php include __DIR__ . '/includes/footer.php'; ?>
