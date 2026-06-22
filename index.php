@@ -100,18 +100,17 @@ include __DIR__ . '/includes/header.php';
 </section>
 
 <section class="content-block">
-  <h2>Next content planned</h2>
+  <h2>What you can read now</h2>
 
   <p>
-    The first full articles will focus on public data topics that can attract traffic and connect naturally
-    to useful affiliate offers.
+    Public Data Profits now has a growing blog with practical guides about public data, AI tools, SEO, automation, and simple online income ideas.
   </p>
 
   <p>
-    Planned examples include:
-    public net worth timelines, AI tool adoption charts, side hustle data, creator economy income examples,
-    and public search trend comparisons.
+    Start with our first guide on AI tools adoption, then visit the Blog page as more public-data guides are added.
   </p>
+
+  <a class="cta" href="/blog.php">Visit the Blog</a>
 </section>
 
 <section class="content-block latest-blog">
